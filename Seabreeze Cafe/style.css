@@ -1,0 +1,43 @@
+#main .navbar-brand {
+    color: rgb(252, 247, 247);
+   
+}
+
+#main .nav-link {
+    color: white;
+}
+
+.navbar.scrolled {
+    background: rgb(73, 83, 107);
+    transition: 1s all linear;
+}
+
+#main .nav-link:hover {
+    color: grey;
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 4rem;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+body {
+    background: rgb(46, 154, 243);
+}
+
+#logo {
+    text-shadow: 1px 1px 2px rgb(124, 120, 120),
+    1px 1px 2px rgb(124, 120, 120),
+    1px 1px 2px rgb(124, 120, 120);
+}
+ h2 {
+    color: white;
+    text-shadow: 1px 1px 2px rgb(124, 120, 120),
+                  1px 1px 2px rgb(124, 120, 120),
+                  1px 1px 2px rgb(124, 120, 120);
+ }
+ p {
+     color: white;
+     text-shadow: .5px .5px 1px rgb(124, 120, 120);
+ }
